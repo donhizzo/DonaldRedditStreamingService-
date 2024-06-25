@@ -237,16 +237,13 @@ namespace ExternalServices
             Secrets secrets = new Secrets();
             if (!_memoryCache.TryGetValue(CacheKey, out Secrets keys))
             {
-                secrets =  Authenticate(false,clientID,clientSecrets).Result;
-               
+                secrets =  Authenticate(false,clientID,clientSecrets).Result;               
 
-                // Set cache options
                 var cacheOptions = new MemoryCacheEntryOptions
                 {
                     AbsoluteExpirationRelativeToNow = TimeSpan.FromMinutes(50)
                 };
-
-                // Save data in cache
+                
                 _memoryCache.Set(CacheKey, keys, cacheOptions);
             }
 
