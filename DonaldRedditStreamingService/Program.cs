@@ -11,7 +11,8 @@ using System;
 using System.Timers;
 using Microsoft.Extensions.Configuration;
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello World!, THis is a Reddit Streaming app that makes a call to reddit API every minute to check for new post, highest upvotes and the highest post by a user");
+
 
 var serviceProvider = new ServiceCollection()
             .AddMemoryCache()
@@ -31,9 +32,10 @@ string ClientId = config["AppSettings:ClientId"];
 string ClientSecret = config["AppSettings:ClientSecret"];
 string SubredditName = config["AppSettings:SubredditName"];
 
-
- var secrets = serviceProvider.GetService<IReditAPIService>().Authenticate(true,ClientId,ClientSecret).Result;
-
+Console.WriteLine("Authentication started");
+var secrets = serviceProvider.GetService<IReditAPIService>().Authenticate(true,ClientId,ClientSecret).Result;
+Console.WriteLine("Authentication completed");
+Console.WriteLine(" Post stats will be start displaying in about 1 minute ");
 var _timer = new System.Timers.Timer(1 * 60 * 1000); // 2 minutes in milliseconds
 
 _timer.AutoReset = true;
