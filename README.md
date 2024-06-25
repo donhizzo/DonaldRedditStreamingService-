@@ -3,10 +3,11 @@ THis is a Reddit Streaming app that makes a call to reddit API every minute to c
 Tech implemented
 =================
 Dependency Ingection,
-Multi Threding
-Caching
-in memory sorage
-Unit testing
+Multi Threding,
+Caching,
+in memory sorage,
+Unit testing,
 
 Tech Used
+==============
 .net core version 8.0
