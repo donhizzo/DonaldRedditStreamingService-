@@ -1,0 +1,17 @@
+D:\Visual Studio Projects\DonaldRedditStreamingService\RedditAPIServiceTest\bin\Debug\net8.0\RedditAPIServiceTest.deps.json
+D:\Visual Studio Projects\DonaldRedditStreamingService\RedditAPIServiceTest\bin\Debug\net8.0\RedditAPIServiceTest.runtimeconfig.json
+D:\Visual Studio Projects\DonaldRedditStreamingService\RedditAPIServiceTest\bin\Debug\net8.0\RedditAPIServiceTest.dll
+D:\Visual Studio Projects\DonaldRedditStreamingService\RedditAPIServiceTest\bin\Debug\net8.0\RedditAPIServiceTest.pdb
+D:\Visual Studio Projects\DonaldRedditStreamingService\RedditAPIServiceTest\bin\Debug\net8.0\ExternalServices.dll
+D:\Visual Studio Projects\DonaldRedditStreamingService\RedditAPIServiceTest\bin\Debug\net8.0\ExternalServices.pdb
+D:\Visual Studio Projects\DonaldRedditStreamingService\RedditAPIServiceTest\obj\Debug\net8.0\RedditAPIServiceTest.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\DonaldRedditStreamingService\RedditAPIServiceTest\obj\Debug\net8.0\RedditAPIServiceTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\DonaldRedditStreamingService\RedditAPIServiceTest\obj\Debug\net8.0\RedditAPIServiceTest.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\DonaldRedditStreamingService\RedditAPIServiceTest\obj\Debug\net8.0\RedditAPIServiceTest.AssemblyInfo.cs
+D:\Visual Studio Projects\DonaldRedditStreamingService\RedditAPIServiceTest\obj\Debug\net8.0\RedditAPIServiceTest.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\DonaldRedditStreamingService\RedditAPIServiceTest\obj\Debug\net8.0\RedditAP.9BD2F611.Up2Date
+D:\Visual Studio Projects\DonaldRedditStreamingService\RedditAPIServiceTest\obj\Debug\net8.0\RedditAPIServiceTest.dll
+D:\Visual Studio Projects\DonaldRedditStreamingService\RedditAPIServiceTest\obj\Debug\net8.0\refint\RedditAPIServiceTest.dll
+D:\Visual Studio Projects\DonaldRedditStreamingService\RedditAPIServiceTest\obj\Debug\net8.0\RedditAPIServiceTest.pdb
+D:\Visual Studio Projects\DonaldRedditStreamingService\RedditAPIServiceTest\obj\Debug\net8.0\RedditAPIServiceTest.genruntimeconfig.cache
+D:\Visual Studio Projects\DonaldRedditStreamingService\RedditAPIServiceTest\obj\Debug\net8.0\ref\RedditAPIServiceTest.dll

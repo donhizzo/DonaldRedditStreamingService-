@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DonaldRedditStreamingService", "DonaldRedditStreamingService\DonaldRedditStreamingService.csproj", "{25B9B290-70B9-46C3-81E0-07EF9BA1AE58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalServices", "ExternalServices\ExternalServices.csproj", "{95251162-AECA-42DA-94F6-DB0D3E9A275B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedditAPIServiceTest", "RedditAPIServiceTest\RedditAPIServiceTest.csproj", "{3C08A042-6B86-45EB-B10C-5F9411450582}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25B9B290-70B9-46C3-81E0-07EF9BA1AE58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25B9B290-70B9-46C3-81E0-07EF9BA1AE58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25B9B290-70B9-46C3-81E0-07EF9BA1AE58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25B9B290-70B9-46C3-81E0-07EF9BA1AE58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95251162-AECA-42DA-94F6-DB0D3E9A275B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95251162-AECA-42DA-94F6-DB0D3E9A275B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95251162-AECA-42DA-94F6-DB0D3E9A275B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95251162-AECA-42DA-94F6-DB0D3E9A275B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C08A042-6B86-45EB-B10C-5F9411450582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C08A042-6B86-45EB-B10C-5F9411450582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C08A042-6B86-45EB-B10C-5F9411450582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C08A042-6B86-45EB-B10C-5F9411450582}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7441AEBB-7F07-4717-8E74-E4C9AAD1D391}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "kkqpR8ylYScx9Le+3VCZ933g4JoCmBLiGGjQSd94a3N0ljy2rz8xpZv7vCyxAVhMTx9x6sCE8Z2zeL+6F0XL+w==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio Projects\\DonaldRedditStreamingService\\ExternalServices\\ExternalServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hizzo\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\hizzo\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\hizzo\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "C:\\Users\\hizzo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\hizzo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\hizzo\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\hizzo\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\hizzo\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\hizzo\\.nuget\\packages\\reddit\\1.5.2\\reddit.1.5.2.nupkg.sha512",
+    "C:\\Users\\hizzo\\.nuget\\packages\\reddit.authtokenretrieverlib\\1.5.2\\reddit.authtokenretrieverlib.1.5.2.nupkg.sha512",
+    "C:\\Users\\hizzo\\.nuget\\packages\\restsharp\\106.6.9\\restsharp.106.6.9.nupkg.sha512",
+    "C:\\Users\\hizzo\\.nuget\\packages\\uhttpsharp.standard\\8.0.30703.1\\uhttpsharp.standard.8.0.30703.1.nupkg.sha512"
+  ],
+  "logs": []
+}
